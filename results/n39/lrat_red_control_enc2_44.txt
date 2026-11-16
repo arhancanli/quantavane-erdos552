@@ -1,0 +1,1 @@
+b44_e3 solver=UNSATISFIABLE checker=VERIFIED UNSAT checked 12190 additions (0 RAT), 177588 deletions secs=0 cnf_sha256=588ac7c1747b81ac969382ceaac2a33e9602d644ac5a7c8e29cf06e50f9f18ac lrat_sha256=454e36999360391042fdd741580f2c2c240cbe0e43d0c10e0c2cba7183860bfc

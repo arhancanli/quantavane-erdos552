@@ -1,0 +1,10 @@
+lean/.lake/
+*.cnf
+*.lrat
+*.lrat.gz
+__pycache__/
+*.pyc
+.DS_Store
+.claude-flow/
+.swarm/
+ruvector.db

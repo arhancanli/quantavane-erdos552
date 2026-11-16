@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these graphs, proofs or programs, please cite them as below, together with the earlier claims and papers listed in README.md."
+type: dataset
+title: "Erdős Problem #552: R(C4, K_{1,39}) = 46 and R(C4, K_{1,51}) = 59"
+abstract: "Independent proofs of R(C4, K_{1,39}) = 46 and R(C4, K_{1,51}) = 59: the lower-bound graphs with Lean 4 proofs (core library, decide), the upper-bound counting arguments, two separately written SAT encodings of the case analysis, and the SHA-256 of every formula and LRAT certificate."
+authors:
+  - family-names: Canli
+    given-names: Arhan
+    affiliation: Quantavane
+    email: arhan@quantavane.com
+license: CC-BY-4.0
+url: "https://quantavane.com"
+repository-code: "https://github.com/arhancanli/quantavane-erdos552"
+keywords:
+  - Ramsey numbers
+  - Erdős problems
+  - C4-free graphs
+  - SAT
+  - LRAT
+  - Lean 4

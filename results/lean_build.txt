@@ -1,0 +1,11 @@
+# lake build of lean/ from a fresh copy of the folder (no .lake, no manifest), 16 Nov 2026 09:52 UTC, macOS (Apple silicon)
+# Lean (version 4.35.0, arm64-apple-darwin24.6.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc, Release); Lean core only, no dependencies; wall time 22.7 s
+$ lake build
+info: erdos552: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+ℹ [2/5] Built Erdos552.Lower39 (11s)
+info: Erdos552/Lower39.lean:108:0: 'Erdos552.ramsey_C4_star39_gt_45' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3/5] Built Erdos552.Lower51 (21s)
+info: Erdos552/Lower51.lean:122:0: 'Erdos552n51Lower.ramsey_C4_star51_gt_58' depends on axioms: [propext, Classical.choice, Quot.sound]
+✔ [4/5] Built Erdos552 (268ms)
+Build completed successfully (5 jobs).

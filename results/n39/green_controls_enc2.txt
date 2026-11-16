@@ -1,0 +1,7 @@
+# Encoding 2 (enc552b.py with NV, DV set), CaDiCaL 2.1.2, 12 Nov 2026 ~10:50 UTC: green/red controls on small cases
+N=10 k=3 E=0: s SATISFIABLE      (Petersen graph)
+N=15 k=4 E=1: s SATISFIABLE
+N=15 k=4 E=2: s SATISFIABLE
+N=13 k=4 E=2: s UNSATISFIABLE    (agrees with encoding 1, results/green_controls.txt)
+N=26 k=5 E=2: s SATISFIABLE
+N=44 k=7 E=3: UNSAT, LRAT VERIFIED (lrat_b44.txt; re-derives R(C4,K_{1,37}) = 44)

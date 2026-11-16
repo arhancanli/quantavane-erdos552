@@ -1,0 +1,34 @@
+cube000_0_eeeeeee s UNSATISFIABLE real 0.57
+cube002_0_eeeemme s UNSATISFIABLE real 29.33
+cube001_0_eeeeeme s UNSATISFIABLE real 14.48
+cube003_0_eeememe s UNSATISFIABLE real 20.85
+cube004_0_eeemmme s UNSATISFIABLE real 60.42
+cube006_0_emememe s UNSATISFIABLE real 94.58
+cube005_0_eemmmme s UNSATISFIABLE real 188.40
+cube007_0_ememmme s UNSATISFIABLE real 202.87
+cube008_0_emmmmme  real 300.02
+cube010_1_eeeeeen s UNSATISFIABLE real 2.39
+cube012_1_eeeemmn s UNSATISFIABLE real 4.37
+cube014_1_eeemmmn s UNSATISFIABLE real 5.49
+cube016_1_emememn s UNSATISFIABLE real 7.73
+cube018_1_emmmmmn  
+cube020_1_neeeeee s UNSATISFIABLE real 1.30
+cube022_1_neeemme s UNSATISFIABLE real 6.68
+cube024_1_neemmme s UNSATISFIABLE real 14.50
+cube026_1_nmeeeee s UNSATISFIABLE real 7.82
+cube028_1_nmeemme s UNSATISFIABLE real 15.99
+cube030_1_nmemmme s UNSATISFIABLE real 43.11
+cube008_0_emmmmme s UNSATISFIABLE real 659.91
+cube009_0_mmmmmme s UNSATISFIABLE real 162.97
+cube011_1_eeeeemn s UNSATISFIABLE real 2.97
+cube013_1_eeememn s UNSATISFIABLE real 4.80
+cube015_1_eemmmmn s UNSATISFIABLE real 6.68
+cube017_1_ememmmn s UNSATISFIABLE real 10.75
+cube018_1_emmmmmn s UNSATISFIABLE real 12.11
+cube019_1_mmmmmmn s UNSATISFIABLE real 52.47
+cube021_1_neeeeme s UNSATISFIABLE real 4.37
+cube023_1_neememe s UNSATISFIABLE real 10.02
+cube025_1_nemmmme s UNSATISFIABLE real 7.11
+cube027_1_nmeeeme s UNSATISFIABLE real 10.33
+cube029_1_nmememe s UNSATISFIABLE real 32.37
+cube031_1_nmmmmme s UNSATISFIABLE real 184.11

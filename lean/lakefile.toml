@@ -1,0 +1,7 @@
+name = "erdos552"
+version = "0.1.0"
+defaultTargets = ["Erdos552"]
+
+# Lean core only: no Mathlib, no other dependency.
+[[lean_lib]]
+name = "Erdos552"
