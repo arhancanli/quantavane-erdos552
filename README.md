@@ -331,8 +331,26 @@ on trust from that. The claims rest on the machine checks described above (the L
 checked LRAT certificates for every SAT piece, two separately written encodings, red and green controls) and on the
 short written arguments in this file, which can be checked by hand.
 
-## Licence and citation
+## Licence
 
-Text, graphs and tables: CC BY 4.0 (`LICENSE`). Programs: MIT (`LICENSE-CODE`). Please cite as: Arhan Canli,
-*Erdős Problem #552: R(C₄, K₁,₃₉) = 46 and R(C₄, K₁,₅₁) = 59*, https://github.com/arhancanli/quantavane-erdos552
-(2026), and cite the earlier claims and the literature above.
+Text, graphs and tables: CC BY 4.0 (`LICENSE`). Programs: MIT (`LICENSE-CODE`).
+
+## How to cite
+
+Please cite as: Arhan Canli, *Erdős Problem #552: R(C₄, K₁,₃₉) = 46 and R(C₄, K₁,₅₁) = 59*,
+https://github.com/arhancanli/quantavane-erdos552 (2026), and cite the earlier claims and the literature above.
+
+```bibtex
+@misc{quantavane-erdos552,
+  author       = {Canli, Arhan},
+  title        = {{Erd\H{o}s} Problem \#552: {$R(C_4, K_{1,39}) = 46$} and {$R(C_4, K_{1,51}) = 59$}},
+  year         = {2026},
+  howpublished = {\url{https://github.com/arhancanli/quantavane-erdos552}},
+  note         = {Quantavane; CC BY 4.0; code MIT}
+}
+```
+
+[CITATION.cff](CITATION.cff) gives the same reference for GitHub's "Cite this repository" button.
+
+Known uses of this work are listed in [USED_BY.md](USED_BY.md). If you use it, please open an issue or a pull request
+with a link so that yours can be added.
